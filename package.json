@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/coderchrisdean/review-mania/issues"
   },
-  "homepage": "https://github.com/coderchrisdean/review-mania#readme"
+  "homepage": "https://github.com/coderchrisdean/review-mania#readme",
+  "dependencies": {
+    "@auth0/auth0-react": "^2.2.1"
+  }
 }
