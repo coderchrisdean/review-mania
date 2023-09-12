@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/coderchrisdean/review-mania#readme",
   "dependencies": {
-    "@auth0/auth0-react": "^2.2.1"
+    "@auth0/auth0-react": "^2.2.1",
+    "react-vis": "^1.12.1"
   }
 }

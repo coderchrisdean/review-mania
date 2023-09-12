@@ -9,7 +9,7 @@ require('./config/passport')(passport);
 
 // Initialize session
 app.use(session({
-  secret: 'pasta-and-meatballs',
+  secret: 'JdUPUnpug3qRZO9XZTZxmH6FBJWwZJHMbSkohYYqU-do8q1Va7-sXimwYZb713LK',
   resave: true,
   saveUninitialized: true,
 }));
